@@ -15,7 +15,9 @@ html {
     background-color: black;
 }
 
-
+a{
+    color:white;
+}
 
 .header {
     background-color: maroon;
